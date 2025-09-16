@@ -12,10 +12,11 @@ This ZSH config comes with :
  - saving last directory and start shell in that dir
 
 run yazi with "f" and enter 
-run lazy-git wit 
+run lazy-git wit "lg" and enter
+
  
 
-# Requirements
+# Requirements & Installations
 
     sudo dnf install zsh
 	sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -24,6 +25,9 @@ run lazy-git wit
      
     sudo dnf copr enable lihaohong/yazi
 	sudo dnf install yazi
+
+	sudo dnf copr enable dejan/lazygit
+	sudo dnf install lazygit
 
 	git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
@@ -47,6 +51,6 @@ https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA4NDA3ODUsNjQ1MjEwMTMxLC05OD
-QxMTM2ODNdfQ==
+eyJoaXN0b3J5IjpbNTA2NTI1NTgxLDY0NTIxMDEzMSwtOTg0MT
+EzNjgzXX0=
 -->
