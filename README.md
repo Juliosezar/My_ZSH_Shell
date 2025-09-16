@@ -2,7 +2,10 @@
 
 # Requirements
 
-    sudo dnf install bat
+    sudo dnf install zsh
+	sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+	sudo dnf install bat
      
     sudo dnf copr enable lihaohong/yazi
 	sudo dnf install yazi
@@ -17,7 +20,7 @@
 
 	git clone  https://github.com/jeffreytse/zsh-vi-mode ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-vi-mode
 	
-install Autin:
+install Autin (shell history tool):
 https://docs.atuin.sh/guide/installation/
 and it config file to `~/.config/atuin/config.toml`:
 https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
@@ -26,6 +29,6 @@ https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU3ODQ4ODMsNjQ1MjEwMTMxLC05OD
-QxMTM2ODNdfQ==
+eyJoaXN0b3J5IjpbMjY3ODEzNjE5LDY0NTIxMDEzMSwtOTg0MT
+EzNjgzXX0=
 -->
