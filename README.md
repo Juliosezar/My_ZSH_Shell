@@ -21,14 +21,17 @@
 	git clone  https://github.com/jeffreytse/zsh-vi-mode ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-vi-mode
 	
 install Autin (shell history tool):
+
 https://docs.atuin.sh/guide/installation/
+
 and it config file to `~/.config/atuin/config.toml`:
+
 https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
 
 
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3ODEzNjE5LDY0NTIxMDEzMSwtOTg0MT
-EzNjgzXX0=
+eyJoaXN0b3J5IjpbLTE2Mzk0NjA3OTUsNjQ1MjEwMTMxLC05OD
+QxMTM2ODNdfQ==
 -->
