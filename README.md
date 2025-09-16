@@ -14,10 +14,12 @@
 	git clone https://github.com/MichaelAquilina/zsh-you-should-use.git $ZSH_CUSTOM/plugins/you-should-use
 
 	git clone https://github.com/fdellwing/zsh-bat.git $ZSH_CUSTOM/plugins/zsh-bat
+
+	git clone  https://github.com/jeffreytse/zsh-vi-mode ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-vi-mode
 	
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEwMDE2Nyw2NDUyMTAxMzEsLTk4ND
-ExMzY4M119
+eyJoaXN0b3J5IjpbMTY1ODY0NTksNjQ1MjEwMTMxLC05ODQxMT
+M2ODNdfQ==
 -->
