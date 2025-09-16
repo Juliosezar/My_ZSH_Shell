@@ -4,7 +4,11 @@ This ZSH config comes with :
 
  - amazing shell history tool 
  - vi mode key binding
- - 
+ - auto suggestion in commands
+ - syntax highlighting
+ - bat instead of cat
+ - show shortcut command
+ - docker command helping 
 
  
 
@@ -40,6 +44,6 @@ https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTA0NDAzNSw2NDUyMTAxMzEsLTk4ND
-ExMzY4M119
+eyJoaXN0b3J5IjpbMTY3NDEyMDI0LDY0NTIxMDEzMSwtOTg0MT
+EzNjgzXX0=
 -->
