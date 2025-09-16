@@ -50,8 +50,8 @@ https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
 
 
    
-
+## now only replace .zshrc from this repo with your .zshrc file in home dir 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTcwMzEyMywtNDU2ODM5NjgxLDY0NT
-IxMDEzMSwtOTg0MTEzNjgzXX0=
+eyJoaXN0b3J5IjpbMjEyMTEzOTkxLDE5NjE3MDMxMjMsLTQ1Nj
+gzOTY4MSw2NDUyMTAxMzEsLTk4NDExMzY4M119
 -->
