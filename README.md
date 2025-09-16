@@ -1,7 +1,12 @@
 # My_ZSH_Shell
 
-this ZSH config comes with :
+This ZSH config comes with :
 
+ - amazing shell history tool 
+ - vi mode key binding
+ - 
+
+ 
 
 # Requirements
 
@@ -35,6 +40,6 @@ https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMDkyOTE1LDY0NTIxMDEzMSwtOTg0MT
-EzNjgzXX0=
+eyJoaXN0b3J5IjpbLTQzMTA0NDAzNSw2NDUyMTAxMzEsLTk4ND
+ExMzY4M119
 -->
