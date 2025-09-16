@@ -19,10 +19,13 @@
 	
 install Autin:
 https://docs.atuin.sh/guide/installation/
-and 
+and it config file to `~/.config/atuin/config.toml`:
+https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
+
+
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDA5NTkxLDY0NTIxMDEzMSwtOTg0MT
-EzNjgzXX0=
+eyJoaXN0b3J5IjpbLTE1NzU3ODQ4ODMsNjQ1MjEwMTMxLC05OD
+QxMTM2ODNdfQ==
 -->
