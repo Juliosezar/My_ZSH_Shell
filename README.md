@@ -7,8 +7,9 @@
     sudo dnf copr enable lihaohong/yazi
 	sudo dnf install yazi
 	
-   install 
+   ins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1MjEwMTMxLC05ODQxMTM2ODNdfQ==
+eyJoaXN0b3J5IjpbLTI2MjQ5MjI0Niw2NDUyMTAxMzEsLTk4ND
+ExMzY4M119
 -->
