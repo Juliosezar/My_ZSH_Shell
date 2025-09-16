@@ -3,7 +3,7 @@
 This ZSH config comes with :
 
  - amazing shell history tool 
- - vi mode key binding
+ - vi mode key binding ( i replace Esc to "jj" )
  - auto suggestion in commands
  - syntax highlighting
  - bat instead of cat
@@ -52,6 +52,6 @@ https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjgzOTY4MSw2NDUyMTAxMzEsLTk4ND
-ExMzY4M119
+eyJoaXN0b3J5IjpbMTk2MTcwMzEyMywtNDU2ODM5NjgxLDY0NT
+IxMDEzMSwtOTg0MTEzNjgzXX0=
 -->
