@@ -6,10 +6,18 @@
      
     sudo dnf copr enable lihaohong/yazi
 	sudo dnf install yazi
+
+	git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+	git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+	git clone https://github.com/MichaelAquilina/zsh-you-should-use.git $ZSH_CUSTOM/plugins/you-should-use
+
+	git clone https://github.com/fdellwing/zsh-bat.git $ZSH_CUSTOM/plugins/zsh-bat
 	
-   ins
+   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjQ5MjI0Niw2NDUyMTAxMzEsLTk4ND
+eyJoaXN0b3J5IjpbLTE0MjEwMDE2Nyw2NDUyMTAxMzEsLTk4ND
 ExMzY4M119
 -->
