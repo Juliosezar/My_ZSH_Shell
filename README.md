@@ -8,8 +8,11 @@ This ZSH config comes with :
  - syntax highlighting
  - bat instead of cat
  - show shortcut command
- - docker command helping 
+ - docker command helping
+ - saving last directory and start shell in that dir
 
+run yazi with "f" and enter 
+run lazy-git wit 
  
 
 # Requirements
@@ -44,6 +47,6 @@ https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDEyMDI0LDY0NTIxMDEzMSwtOTg0MT
-EzNjgzXX0=
+eyJoaXN0b3J5IjpbLTEwODA4NDA3ODUsNjQ1MjEwMTMxLC05OD
+QxMTM2ODNdfQ==
 -->
