@@ -18,10 +18,11 @@
 	git clone  https://github.com/jeffreytse/zsh-vi-mode ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-vi-mode
 	
 install Autin:
-
+https://docs.atuin.sh/guide/installation/
+and 
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg1MTMzNSw2NDUyMTAxMzEsLTk4ND
-ExMzY4M119
+eyJoaXN0b3J5IjpbLTQ2MDA5NTkxLDY0NTIxMDEzMSwtOTg0MT
+EzNjgzXX0=
 -->
