@@ -10,6 +10,7 @@ This ZSH config comes with :
  - show shortcut command
  - docker command helping
  - saving last directory and start shell in that dir
+ - use lazy-git for term-ui git control
 
 run yazi with "f" and enter 
 run lazy-git wit "lg" and enter
@@ -51,6 +52,6 @@ https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2NTI1NTgxLDY0NTIxMDEzMSwtOTg0MT
-EzNjgzXX0=
+eyJoaXN0b3J5IjpbLTQ1NjgzOTY4MSw2NDUyMTAxMzEsLTk4ND
+ExMzY4M119
 -->
