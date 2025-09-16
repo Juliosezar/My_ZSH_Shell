@@ -1,5 +1,8 @@
 # My_ZSH_Shell
 
+this ZSH config comes with :
+
+
 # Requirements
 
     sudo dnf install zsh
@@ -32,6 +35,6 @@ https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk0NjA3OTUsNjQ1MjEwMTMxLC05OD
-QxMTM2ODNdfQ==
+eyJoaXN0b3J5IjpbMjQyMDkyOTE1LDY0NTIxMDEzMSwtOTg0MT
+EzNjgzXX0=
 -->
