@@ -10,8 +10,6 @@ alias src="source .venv/bin/activate"
 alias rs="python manage.py runserver"
 alias mm="python manage.py makemigrations"  
 alias m="python manage.py migrate"
-alias panel="ssh sezar@185.252.86.47 -p 54345"
-alias vpn="ssh sezar@napsv.ir -p 2222"
 alias lg="lazygit"
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time Oh My Zsh is loaded, in which case,
