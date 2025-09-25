@@ -11,6 +11,7 @@ This ZSH config comes with :
  - docker command helping
  - saving last directory and start shell in that dir
  - use lazy-git for term-ui git control
+ - use git cz for conventional commits with "gc" shortcut
 
 run yazi with "f" and enter 
 run lazy-git wit "lg" and enter
@@ -39,6 +40,9 @@ run lazy-git wit "lg" and enter
 	git clone https://github.com/fdellwing/zsh-bat.git $ZSH_CUSTOM/plugins/zsh-bat
 
 	git clone  https://github.com/jeffreytse/zsh-vi-mode ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-vi-mode
+
+	sudo dnf install pipx
+	pipx  install  commitizen
 	
 install Autin (shell history tool):
 
@@ -52,6 +56,7 @@ https://github.com/Juliosezar/My_ZSH_Shell/blob/master/config.toml
    
 ## now only replace .zshrc from this repo with your .zshrc file in home dir 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTEzOTkxLDE5NjE3MDMxMjMsLTQ1Nj
-gzOTY4MSw2NDUyMTAxMzEsLTk4NDExMzY4M119
+eyJoaXN0b3J5IjpbLTEzMTg1NzY5NjcsMjEyMTEzOTkxLDE5Nj
+E3MDMxMjMsLTQ1NjgzOTY4MSw2NDUyMTAxMzEsLTk4NDExMzY4
+M119
 -->
